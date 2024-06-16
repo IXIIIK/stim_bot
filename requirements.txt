@@ -1,0 +1,5 @@
+aiogram<4.0
+python-dotenv==1.0.0
+pydantic<3.0
+pydantic-settings<3.0
+aioschedule<1.0
